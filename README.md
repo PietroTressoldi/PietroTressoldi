@@ -10,8 +10,7 @@ Outside work I learn by building real things, like the booking API my family's c
 
 - **[Chalé Alto do Morro API](https://github.com/PietroTressoldi/ChaleAltoDoMorroAPI)**: ASP.NET Core booking API in daily use, handling pre-reservations, the calendar and the cash book. .NET 10 · PostgreSQL · JWT · Docker.
 - **[GuitarTrek](https://github.com/PietroTressoldi/GuitarTrek)**: a practice hub for guitarists, and where I'm learning React and TypeScript. In progress.
-- **[MetronomeApp](https://github.com/PietroTressoldi/MetronomeApp)**: a Windows Forms metronome I built for my own practice.
-
+- 
 ### Stack
 
 **Daily:** C# · .NET Framework / .NET 6–10 · ASP.NET Core · Entity Framework Core · Windows Services · Worker Services · AWS SQS · Windows Forms · PostgreSQL · MySQL · SQLite · Docker · Git<br>
