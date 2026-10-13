@@ -19,6 +19,4 @@ Outside work I learn by building real things, like the booking API my family's c
 
 ### Contact
 
-Open to remote Junior or internship roles, 20–30 h/week, afternoons (UTC−3).
-
 📫 [pietrosoares2105@gmail.com](mailto:pietrosoares2105@gmail.com) · [LinkedIn](https://www.linkedin.com/in/pietrotressoldi/)
